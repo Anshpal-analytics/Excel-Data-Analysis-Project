@@ -36,3 +36,5 @@ The objective of this project is to analyze Delhi's air quality across 5 zones d
 ## Final Conclusion
 
 The analysis highlights significant variations in Delhi's air quality across different zones and months. The dashboard helps identify major pollution hotspots, dominant pollutants, and periods with higher pollution levels. This project demonstrates how Excel-based data cleaning, analysis, Pivot Tables, and interactive dashboards can be used to convert raw environmental data into meaningful business-style insights.
+## Dashboard
+<img width="1138" height="645" alt="Screenshot 2026-09-23 155439" src="https://github.com/user-attachments/assets/4e01e19f-dbb9-4754-b76c-cdfe96fdbc17" />
